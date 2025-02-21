@@ -1,4 +1,4 @@
-module github.com/chrede88/qubtTemplate
+module github.com/patrickpulfer/pulfer.cloud
 
 go 1.24.0
 
